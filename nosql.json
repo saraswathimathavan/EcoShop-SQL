@@ -1,0 +1,26 @@
+{
+{
+  "product_id": "P101",
+  "product_name": "Bamboo Toothbrush",
+  "category": "Personal Care",
+  "price": 80,
+  "stock_quantity": 100,
+  "material_type": "Bamboo"
+}
+{
+  "product_id": "P102",
+  "product_name": "Cotton Tote Bag",
+  "category": "Accessories",
+  "price": 150,
+  "stock_quantity": 50,
+  "material_type": "Cotton"
+}
+{
+  "product_id": "P103",
+  "product_name": "Steel Water Bottle",
+  "category": "Kitchen",
+  "price": 350,
+  "stock_quantity": 75,
+  "material_type": "Stainless Steel"
+}
+}
